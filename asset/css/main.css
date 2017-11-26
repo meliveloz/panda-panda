@@ -1,0 +1,112 @@
+
+header{
+	text-align: right;
+	color: #fffefd;
+	height:  8.8em;
+	font-family: 'Montserrat', sans-serif;
+	background: #f78e69;
+	font-weight: bolder;
+}
+
+.titlepanda{
+	margin-right: 0.5em;
+	margin-top: 1em;
+	font-weight: bold;
+}
+.subtitle{
+	margin-right: 0.5em;
+	margin-top: 1em;
+	font-weight: normal;
+}
+.mainphoto{
+	width: 100%;
+}
+.ceropadding{
+	padding: 0;
+}
+.aboutpink{
+	background: #f78e69;
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 5%;
+	font-family: 'Montserrat', sans-serif;
+	color: #fffefd;
+	font-size: 0.8em;
+	padding: 2.5em;
+	height: 22em;
+
+}
+
+.aboutgreen{
+	background-color: #abe188;
+	text-align: center;
+	height: 26em;
+	border-top: 1em solid #f78e69;
+	border-bottom: 1em solid #f78e69;
+}
+.aboutpanda{
+	text-align: center;
+	margin-top: -0.25em;
+
+}
+.titleabout{
+	margin-bottom: 1em;
+}
+
+.paragraphabout{
+
+	font-size: 0.89vw;
+}
+.phototwopanda{
+	width: 100%;
+	border-bottom:1em solid #f78e69;
+}
+
+.pandagalery{
+	background-color: #abe188;
+	text-align: center;
+	height: 22em;
+	border-bottom: 1em solid #f78e69;
+	margin-top: -0.25em;
+}
+
+.titlegalery{
+	font-family: 'Montserrat', sans-serif;
+	color: #fffefd;
+	margin-top: 2em;
+	margin-bottom: 0.4em;
+	font-size: 2em;
+	margin-left: 190%;
+
+}
+
+.pic{
+	border:0.5em solid white;
+	width: 40%;
+	margin-left: 70%;
+	object-fit: none;
+
+}
+
+.marginrigth{
+	margin-right: -11em;
+}
+
+.photolazzypanda{
+	width: 100%;
+}
+
+.pandafooter{
+	background-color: #f78e69; 
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-align: right;
+	margin-top: -0.25em;
+}
+.containerpanda{
+	max-width: 1449px;
+}
+
+.marginleft{
+	margin-left: 10%;
+}
